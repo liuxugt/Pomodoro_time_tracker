@@ -1,0 +1,307 @@
+2019-03-31 17:48:36,303 - framework - INFO - type 'admin' into input
+2019-03-31 17:48:37,041 - framework - INFO - click submit button
+2019-03-31 17:48:38,051 - framework - INFO - curURL is: http://localhost:3000/dashboard
+2019-03-31 17:48:38,076 - framework - INFO - current username isadmin
+2019-03-31 17:48:44,851 - framework - INFO - type 'admin1' into input
+2019-03-31 17:48:45,378 - framework - INFO - click submit button
+2019-03-31 17:48:46,466 - framework - INFO - curURL is: http://localhost:3000/login
+2019-03-31 17:48:46,570 - framework - INFO - alert pops up
+2019-03-31 17:48:46,782 - framework - INFO - check alert_msg is: Admin name is wrong!
+2019-03-31 17:48:52,361 - framework - INFO - click the create new user button
+2019-03-31 17:48:53,374 - framework - INFO - create user modal pops up
+2019-03-31 17:48:54,581 - framework - INFO - input first name: Jeffrey
+2019-03-31 17:48:54,581 - framework - INFO - input last name: Ray
+2019-03-31 17:48:54,582 - framework - INFO - input email: richardvilla@gmail.com
+2019-03-31 17:48:54,657 - framework - INFO - click submit button
+2019-03-31 17:48:55,675 - framework - INFO - create user successfully
+2019-03-31 17:48:55,722 - framework - INFO - check the first name: Jeffrey
+2019-03-31 17:48:55,722 - framework - INFO - check the last name: Ray
+2019-03-31 17:49:00,879 - framework - INFO - click the create new user button
+2019-03-31 17:49:01,896 - framework - INFO - create user modal pops up
+2019-03-31 17:49:02,830 - framework - INFO - input first name: Cathy
+2019-03-31 17:49:02,830 - framework - INFO - input last name: Solis
+2019-03-31 17:49:02,830 - framework - INFO - input email: shaun46@hotmail.com
+2019-03-31 17:49:02,905 - framework - INFO - click submit button
+2019-03-31 17:49:03,966 - framework - INFO - click the create new user button
+2019-03-31 17:49:04,976 - framework - INFO - create user modal pops up
+2019-03-31 17:49:05,875 - framework - INFO - input first name: Cathy
+2019-03-31 17:49:05,875 - framework - INFO - input last name: Solis
+2019-03-31 17:49:05,876 - framework - INFO - input email: shaun46@hotmail.com
+2019-03-31 17:49:05,960 - framework - INFO - click submit button
+2019-03-31 17:49:06,979 - framework - INFO - error modal pops up
+2019-03-31 17:49:16,305 - framework - INFO - create a user for editting
+2019-03-31 17:49:16,403 - framework - INFO - click edit button
+2019-03-31 17:49:17,421 - framework - INFO - edit modal pops up
+2019-03-31 17:49:17,977 - framework - INFO - change first name: Steven to Rodney
+2019-03-31 17:49:17,977 - framework - INFO - change last name: Cruz to Robertson
+2019-03-31 17:49:19,057 - framework - INFO - click confirm button
+2019-03-31 17:49:19,108 - framework - INFO - edit first name to: Rodney
+2019-03-31 17:49:19,108 - framework - INFO - edit last name to: Robertson
+2019-03-31 17:49:27,717 - framework - INFO - create a user for deleting
+2019-03-31 17:49:27,789 - framework - INFO - click the delete button
+2019-03-31 17:49:28,809 - framework - INFO - delete modal doesn't pop up
+2019-03-31 17:49:28,820 - framework - INFO - delete the user successfully
+2019-03-31 17:49:35,199 - framework - INFO - create a user for deleting
+2019-03-31 17:49:42,891 - framework - INFO - create a project for the user
+2019-03-31 17:49:47,409 - framework - INFO - click the delete button
+2019-03-31 17:49:48,427 - framework - INFO - delete modal pops up
+2019-03-31 17:49:48,500 - framework - INFO - click the confirm button
+2019-03-31 17:49:49,518 - framework - INFO - delete the user successfully
+2019-03-31 17:49:56,412 - framework - INFO - create a user for deleting
+2019-03-31 17:50:03,451 - framework - INFO - create a project for the user
+2019-03-31 17:50:08,060 - framework - INFO - click the delete button
+2019-03-31 17:50:09,074 - framework - INFO - delete modal pops up
+2019-03-31 17:50:09,147 - framework - INFO - click the cancel button
+2019-03-31 17:50:10,161 - framework - INFO - cancel deleting the user
+2019-03-31 17:50:18,383 - framework - INFO - find user tab: User
+2019-03-31 17:50:18,769 - framework - INFO - click the tab
+2019-03-31 17:50:19,986 - framework - INFO - find input: Enter your email
+2019-03-31 17:50:22,049 - framework - INFO - type into input: shaunbradford@yahoo.com
+2019-03-31 17:50:22,294 - framework - INFO - find button: Submit
+2019-03-31 17:50:22,756 - framework - INFO - click button
+2019-03-31 17:50:23,764 - framework - INFO - curURL is: http://localhost:3000/dashboard
+2019-03-31 17:50:23,793 - framework - INFO - current username isshaunbradford@yahoo.com
+2019-03-31 17:50:26,979 - framework - INFO - find user tab: User
+2019-03-31 17:50:27,645 - framework - INFO - click the tab
+2019-03-31 17:50:30,916 - framework - INFO - type into input: millerjustin@gmail.com
+2019-03-31 17:50:31,126 - framework - INFO - find button: Submit
+2019-03-31 17:50:31,478 - framework - INFO - click button
+2019-03-31 17:50:32,584 - framework - INFO - curURL is: http://localhost:3000/login
+2019-03-31 17:50:32,885 - framework - INFO - check alert is: User does not exist!
+2019-03-31 17:51:07,072 - framework - INFO - create a user for deleting
+2019-03-31 17:51:14,993 - framework - INFO - create a project for the user
+2019-03-31 17:51:16,063 - framework - INFO - click edit button
+2019-03-31 17:51:17,076 - framework - INFO - edit modal pops up
+2019-03-31 17:51:17,312 - framework - INFO - change project name: oxtaDRAG to ELehwfOqKI
+2019-03-31 17:51:18,411 - framework - INFO - click confirm button
+2019-03-31 17:51:18,425 - framework - INFO - edit project name to: ELehwfOqKI
+2019-03-31 17:51:25,641 - framework - INFO - create a user for deleting
+2019-03-31 17:51:33,220 - framework - INFO - create a project for the user
+2019-03-31 17:51:34,531 - framework - INFO - create another project for the user
+2019-03-31 17:51:35,597 - framework - INFO - click edit button
+2019-03-31 17:51:36,611 - framework - INFO - edit modal pops up
+2019-03-31 17:51:36,817 - framework - INFO - change project name: MXJunfpEiV to AFMcyzralL
+2019-03-31 17:51:37,899 - framework - INFO - click confirm button
+2019-03-31 17:51:45,932 - framework - INFO - create a user for deleting
+2019-03-31 17:51:53,823 - framework - INFO - create a project for the user
+2019-03-31 17:51:54,882 - framework - INFO - click the delete button
+2019-03-31 17:51:55,897 - framework - INFO - delete modal doesn't pop up
+2019-03-31 17:51:55,908 - framework - INFO - delete the user successfully
+2019-04-12 12:48:58,253 - framework - INFO - type 'admin' into input
+2019-04-12 12:48:58,931 - framework - INFO - click submit button
+2019-04-12 12:48:59,936 - framework - INFO - curURL is: http://localhost:3000/dashboard
+2019-04-12 12:48:59,962 - framework - INFO - current username isadmin
+2019-04-12 12:49:05,024 - framework - INFO - type 'admin1' into input
+2019-04-12 12:49:05,627 - framework - INFO - click submit button
+2019-04-12 12:49:06,752 - framework - INFO - curURL is: http://localhost:3000/login
+2019-04-12 12:49:06,870 - framework - INFO - alert pops up
+2019-04-12 12:49:07,106 - framework - INFO - check alert_msg is: Admin name is wrong!
+2019-04-12 12:49:14,324 - framework - INFO - click the create new user button
+2019-04-12 12:49:15,336 - framework - INFO - create user modal pops up
+2019-04-12 12:49:15,792 - framework - INFO - input first name: Marcus
+2019-04-12 12:49:15,792 - framework - INFO - input last name: Moore
+2019-04-12 12:49:15,793 - framework - INFO - input email: owright@yahoo.com
+2019-04-12 12:49:15,845 - framework - INFO - click submit button
+2019-04-12 12:49:23,473 - framework - INFO - click the create new user button
+2019-04-12 12:49:24,484 - framework - INFO - create user modal pops up
+2019-04-12 12:49:24,967 - framework - INFO - input first name: Sheila
+2019-04-12 12:49:24,967 - framework - INFO - input last name: Anderson
+2019-04-12 12:49:24,968 - framework - INFO - input email: daniel45@gmail.com
+2019-04-12 12:49:25,023 - framework - INFO - click submit button
+2019-04-12 12:49:26,063 - framework - INFO - click the create new user button
+2019-04-12 12:49:27,073 - framework - INFO - create user modal pops up
+2019-04-12 12:49:27,477 - framework - INFO - input first name: Sheila
+2019-04-12 12:49:27,478 - framework - INFO - input last name: Anderson
+2019-04-12 12:49:27,478 - framework - INFO - input email: daniel45@gmail.com
+2019-04-12 12:49:27,533 - framework - INFO - click submit button
+2019-04-12 12:49:28,548 - framework - INFO - error modal pops up
+2019-04-12 12:49:36,363 - framework - INFO - create a user for editting
+2019-04-12 12:49:43,151 - framework - INFO - create a user for deleting
+2019-04-12 12:49:49,114 - framework - INFO - create a user for deleting
+2019-04-12 12:49:57,446 - framework - INFO - create a project for the user
+2019-04-12 12:50:09,085 - framework - INFO - create a user for deleting
+2019-04-12 12:50:18,108 - framework - INFO - create a project for the user
+2019-04-12 12:54:46,758 - framework - INFO - click the create new user button
+2019-04-12 12:54:47,769 - framework - INFO - create user modal pops up
+2019-04-12 12:54:48,282 - framework - INFO - input first name: Drew
+2019-04-12 12:54:48,283 - framework - INFO - input last name: Zamora
+2019-04-12 12:54:48,283 - framework - INFO - input email: tstephens@ramirez-lopez.com
+2019-04-12 12:54:48,339 - framework - INFO - click submit button
+2019-04-12 13:04:53,226 - framework - INFO - click the create new user button
+2019-04-12 13:04:54,238 - framework - INFO - create user modal pops up
+2019-04-12 13:04:54,672 - framework - INFO - input first name: James
+2019-04-12 13:04:54,673 - framework - INFO - input last name: Sheppard
+2019-04-12 13:04:54,674 - framework - INFO - input email: karen98@gmail.com
+2019-04-12 13:04:54,732 - framework - INFO - click submit button
+2019-04-12 13:04:55,746 - framework - INFO - create user successfully
+2019-04-12 13:04:55,795 - framework - INFO - check the first name: James
+2019-04-12 13:04:55,795 - framework - INFO - check the last name: Sheppard
+2019-04-12 13:05:16,631 - framework - INFO - click the create new user button
+2019-04-12 13:05:17,642 - framework - INFO - create user modal pops up
+2019-04-12 13:05:18,066 - framework - INFO - input first name: Samuel
+2019-04-12 13:05:18,067 - framework - INFO - input last name: Kelly
+2019-04-12 13:05:18,067 - framework - INFO - input email: austinjeremy@wright.net
+2019-04-12 13:05:18,115 - framework - INFO - click submit button
+2019-04-12 13:05:19,127 - framework - INFO - create user successfully
+2019-04-12 13:05:19,176 - framework - INFO - check the first name: Samuel
+2019-04-12 13:05:19,177 - framework - INFO - check the last name: Kelly
+2019-04-12 13:29:18,093 - framework - INFO - click the create new user button
+2019-04-12 13:29:19,104 - framework - INFO - create user modal pops up
+2019-04-12 13:29:19,572 - framework - INFO - input first name: Lawrence
+2019-04-12 13:29:19,572 - framework - INFO - input last name: Reyes
+2019-04-12 13:29:19,573 - framework - INFO - input email: owenssarah@patel.com
+2019-04-12 13:29:19,625 - framework - INFO - click submit button
+2019-04-12 13:29:20,638 - framework - INFO - create user successfully
+2019-04-12 13:29:20,690 - framework - INFO - check the first name: Lawrence
+2019-04-12 13:29:20,690 - framework - INFO - check the last name: Reyes
+2019-04-12 13:30:23,478 - framework - INFO - click the create new user button
+2019-04-12 13:30:24,489 - framework - INFO - create user modal pops up
+2019-04-12 13:30:25,124 - framework - INFO - input first name: Antonio
+2019-04-12 13:30:25,124 - framework - INFO - input last name: Saunders
+2019-04-12 13:30:25,125 - framework - INFO - input email: myersheather@richardson-williams.biz
+2019-04-12 13:30:25,178 - framework - INFO - click submit button
+2019-04-12 13:30:26,190 - framework - INFO - create user successfully
+2019-04-12 13:30:26,237 - framework - INFO - check the first name: Antonio
+2019-04-12 13:30:26,238 - framework - INFO - check the last name: Saunders
+2019-04-12 13:30:48,613 - framework - INFO - click the create new user button
+2019-04-12 13:30:49,624 - framework - INFO - create user modal pops up
+2019-04-12 13:30:50,072 - framework - INFO - input first name: Samuel
+2019-04-12 13:30:50,072 - framework - INFO - input last name: Joseph
+2019-04-12 13:30:50,073 - framework - INFO - input email: cookjeffrey@yahoo.com
+2019-04-12 13:30:50,130 - framework - INFO - click submit button
+2019-04-12 13:30:51,141 - framework - INFO - create user successfully
+2019-04-12 13:30:51,191 - framework - INFO - check the first name: Samuel
+2019-04-12 13:30:51,191 - framework - INFO - check the last name: Joseph
+2019-04-12 13:31:40,532 - framework - INFO - create a user for deleting
+2019-04-12 13:31:48,127 - framework - INFO - create a project for the user
+2019-04-12 13:35:31,622 - framework - INFO - type 'admin' into input
+2019-04-12 13:35:32,286 - framework - INFO - click submit button
+2019-04-12 13:35:33,291 - framework - INFO - curURL is: http://localhost:3000/dashboard
+2019-04-12 13:35:33,315 - framework - INFO - current username isadmin
+2019-04-12 13:35:38,486 - framework - INFO - type 'admin1' into input
+2019-04-12 13:35:39,081 - framework - INFO - click submit button
+2019-04-12 13:35:40,174 - framework - INFO - curURL is: http://localhost:3000/login
+2019-04-12 13:35:40,293 - framework - INFO - alert pops up
+2019-04-12 13:35:40,534 - framework - INFO - check alert_msg is: Admin name is wrong!
+2019-04-12 13:35:53,324 - framework - INFO - click the create new user button
+2019-04-12 13:35:54,335 - framework - INFO - create user modal pops up
+2019-04-12 13:35:54,814 - framework - INFO - input first name: Carl
+2019-04-12 13:35:54,814 - framework - INFO - input last name: Harris
+2019-04-12 13:35:54,815 - framework - INFO - input email: tabitha99@hotmail.com
+2019-04-12 13:35:54,864 - framework - INFO - click submit button
+2019-04-12 13:35:55,877 - framework - INFO - create user successfully
+2019-04-12 13:35:55,929 - framework - INFO - check the first name: Carl
+2019-04-12 13:35:55,930 - framework - INFO - check the last name: Harris
+2019-04-12 13:36:05,863 - framework - INFO - click the create new user button
+2019-04-12 13:36:06,874 - framework - INFO - create user modal pops up
+2019-04-12 13:36:07,419 - framework - INFO - input first name: Dylan
+2019-04-12 13:36:07,419 - framework - INFO - input last name: Cannon
+2019-04-12 13:36:07,420 - framework - INFO - input email: hursttracy@peterson-douglas.com
+2019-04-12 13:36:07,473 - framework - INFO - click submit button
+2019-04-12 13:36:08,517 - framework - INFO - click the create new user button
+2019-04-12 13:36:09,525 - framework - INFO - create user modal pops up
+2019-04-12 13:36:10,019 - framework - INFO - input first name: Dylan
+2019-04-12 13:36:10,019 - framework - INFO - input last name: Cannon
+2019-04-12 13:36:10,020 - framework - INFO - input email: hursttracy@peterson-douglas.com
+2019-04-12 13:36:10,064 - framework - INFO - click submit button
+2019-04-12 13:36:11,076 - framework - INFO - error modal pops up
+2019-04-12 13:36:52,017 - framework - INFO - click the create new user button
+2019-04-12 13:36:53,031 - framework - INFO - create user modal pops up
+2019-04-12 13:36:53,501 - framework - INFO - input first name: Juan
+2019-04-12 13:36:53,501 - framework - INFO - input last name: Williams
+2019-04-12 13:36:53,502 - framework - INFO - input email: laurieblevins@davis-harris.com
+2019-04-12 13:36:53,555 - framework - INFO - click submit button
+2019-04-12 13:36:54,582 - framework - INFO - create user successfully
+2019-04-12 13:36:54,631 - framework - INFO - check the first name: Juan
+2019-04-12 13:36:54,631 - framework - INFO - check the last name: Williams
+2019-04-12 13:37:04,189 - framework - INFO - click the create new user button
+2019-04-12 13:37:05,210 - framework - INFO - create user modal pops up
+2019-04-12 13:37:05,589 - framework - INFO - input first name: Mia
+2019-04-12 13:37:05,590 - framework - INFO - input last name: Moore
+2019-04-12 13:37:05,590 - framework - INFO - input email: kelli86@gmail.com
+2019-04-12 13:37:05,644 - framework - INFO - click submit button
+2019-04-12 13:37:06,683 - framework - INFO - click the create new user button
+2019-04-12 13:37:07,699 - framework - INFO - create user modal pops up
+2019-04-12 13:37:08,033 - framework - INFO - input first name: Mia
+2019-04-12 13:37:08,033 - framework - INFO - input last name: Moore
+2019-04-12 13:37:08,033 - framework - INFO - input email: kelli86@gmail.com
+2019-04-12 13:37:08,080 - framework - INFO - click submit button
+2019-04-12 13:37:09,092 - framework - INFO - error modal pops up
+2019-04-12 13:38:04,025 - framework - INFO - click the create new user button
+2019-04-12 13:38:05,037 - framework - INFO - create user modal pops up
+2019-04-12 13:38:05,511 - framework - INFO - input first name: Rachel
+2019-04-12 13:38:05,512 - framework - INFO - input last name: Miller
+2019-04-12 13:38:05,512 - framework - INFO - input email: alan16@lowe-torres.biz
+2019-04-12 13:38:05,568 - framework - INFO - click submit button
+2019-04-12 13:38:06,581 - framework - INFO - create user successfully
+2019-04-12 13:38:06,630 - framework - INFO - check the first name: Rachel
+2019-04-12 13:38:06,631 - framework - INFO - check the last name: Miller
+2019-04-12 13:38:29,987 - framework - INFO - click the create new user button
+2019-04-12 13:38:31,000 - framework - INFO - create user modal pops up
+2019-04-12 13:38:31,473 - framework - INFO - input first name: Jennifer
+2019-04-12 13:38:31,474 - framework - INFO - input last name: Vazquez
+2019-04-12 13:38:31,474 - framework - INFO - input email: paige47@yahoo.com
+2019-04-12 13:38:31,522 - framework - INFO - click submit button
+2019-04-12 13:38:32,535 - framework - INFO - create user successfully
+2019-04-12 13:38:32,585 - framework - INFO - check the first name: Jennifer
+2019-04-12 13:38:32,585 - framework - INFO - check the last name: Vazquez
+2019-04-12 13:39:09,459 - framework - INFO - click the create new user button
+2019-04-12 13:39:10,471 - framework - INFO - create user modal pops up
+2019-04-12 13:39:10,917 - framework - INFO - input first name: Emma
+2019-04-12 13:39:10,918 - framework - INFO - input last name: Graham
+2019-04-12 13:39:10,918 - framework - INFO - input email: jeffrey12@wilson.org
+2019-04-12 13:39:10,971 - framework - INFO - click submit button
+2019-04-12 13:39:11,983 - framework - INFO - create user successfully
+2019-04-12 13:39:12,033 - framework - INFO - check the first name: Emma
+2019-04-12 13:39:12,034 - framework - INFO - check the last name: Graham
+2019-04-12 13:39:40,906 - framework - INFO - click the create new user button
+2019-04-12 13:39:41,919 - framework - INFO - create user modal pops up
+2019-04-12 13:39:42,310 - framework - INFO - input first name: Jessica
+2019-04-12 13:39:42,311 - framework - INFO - input last name: Butler
+2019-04-12 13:39:42,311 - framework - INFO - input email: fortiz@yahoo.com
+2019-04-12 13:39:42,365 - framework - INFO - click submit button
+2019-04-12 13:39:43,377 - framework - INFO - create user successfully
+2019-04-12 13:39:43,427 - framework - INFO - check the first name: Jessica
+2019-04-12 13:39:43,428 - framework - INFO - check the last name: Butler
+2019-04-12 13:40:38,675 - framework - INFO - click the create new user button
+2019-04-12 13:40:39,688 - framework - INFO - create user modal pops up
+2019-04-12 13:40:40,124 - framework - INFO - input first name: Karen
+2019-04-12 13:40:40,124 - framework - INFO - input last name: Hall
+2019-04-12 13:40:40,124 - framework - INFO - input email: kevin05@brown-cooper.com
+2019-04-12 13:40:40,176 - framework - INFO - click submit button
+2019-04-12 13:40:41,188 - framework - INFO - create user successfully
+2019-04-12 13:40:41,240 - framework - INFO - check the first name: Karen
+2019-04-12 13:40:41,241 - framework - INFO - check the last name: Hall
+2019-04-12 13:41:04,181 - framework - INFO - click the create new user button
+2019-04-12 13:41:05,193 - framework - INFO - create user modal pops up
+2019-04-12 13:41:05,699 - framework - INFO - input first name: Martha
+2019-04-12 13:41:05,700 - framework - INFO - input last name: White
+2019-04-12 13:41:05,700 - framework - INFO - input email: jason63@jenkins-hammond.com
+2019-04-12 13:41:05,757 - framework - INFO - click submit button
+2019-04-12 13:41:06,803 - framework - INFO - click the create new user button
+2019-04-12 13:41:07,811 - framework - INFO - create user modal pops up
+2019-04-12 13:41:08,268 - framework - INFO - input first name: Martha
+2019-04-12 13:41:08,268 - framework - INFO - input last name: White
+2019-04-12 13:41:08,268 - framework - INFO - input email: jason63@jenkins-hammond.com
+2019-04-12 13:41:08,314 - framework - INFO - click submit button
+2019-04-12 13:41:09,327 - framework - INFO - error modal pops up
+2019-04-12 13:41:34,740 - framework - INFO - create a user for editting
+2019-04-12 13:42:12,211 - framework - INFO - create a user for editting
+2019-04-12 13:44:03,605 - framework - INFO - create a user for editting
+2019-04-12 13:44:03,662 - framework - INFO - click edit button
+2019-04-12 13:44:04,673 - framework - INFO - edit modal pops up
+2019-04-12 13:44:04,921 - framework - INFO - change first name: Caitlin to Thomas
+2019-04-12 13:44:04,922 - framework - INFO - change last name: Romero to Jackson
+2019-04-12 13:44:05,982 - framework - INFO - click confirm button
+2019-04-12 13:44:06,038 - framework - INFO - edit first name to: Thomas
+2019-04-12 13:44:06,039 - framework - INFO - edit last name to: Jackson
+2019-04-12 13:44:26,154 - framework - INFO - create a user for deleting
+2019-04-12 13:45:35,671 - framework - INFO - create a user for deleting
+2019-04-12 13:46:20,167 - framework - INFO - create a user for deleting
+2019-04-12 13:46:20,213 - framework - INFO - click the delete button
+2019-04-12 13:46:21,229 - framework - INFO - delete modal doesn't pop up
+2019-04-12 13:46:21,241 - framework - INFO - delete the user successfully
+2019-04-12 13:47:27,644 - framework - INFO - create a user for deleting
+2019-04-12 13:47:27,697 - framework - INFO - click the delete button
+2019-04-12 13:47:28,711 - framework - INFO - delete modal doesn't pop up
+2019-04-12 13:47:28,724 - framework - INFO - delete the user successfully

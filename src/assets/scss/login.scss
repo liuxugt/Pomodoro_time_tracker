@@ -1,0 +1,24 @@
+.login-container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   width: 100vw;
+   height: 100vh;
+
+   .alert {
+      width: 35vw;
+      margin-bottom: 10vh;
+   }
+
+   .login-wrapper {
+      width: 25vw;
+      height: 50vh;
+
+      .tab-content {
+         .tab-pane {
+            padding-top: 20px;
+         }
+      }
+   }
+}

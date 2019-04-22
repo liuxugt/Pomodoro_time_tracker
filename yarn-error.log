@@ -1,0 +1,92 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.13.0/libexec/bin/yarn.js add react-widget-moment
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/opt/X11/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin
+
+Yarn version: 
+  1.13.0
+
+Node version: 
+  10.15.3
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/react-widget-moment: Not found
+      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.13.0/libexec/lib/cli.js:66255:18)
+      at Request.self.callback (/usr/local/Cellar/yarn/1.13.0/libexec/lib/cli.js:129397:22)
+      at Request.emit (events.js:189:13)
+      at Request.<anonymous> (/usr/local/Cellar/yarn/1.13.0/libexec/lib/cli.js:130369:10)
+      at Request.emit (events.js:189:13)
+      at IncomingMessage.<anonymous> (/usr/local/Cellar/yarn/1.13.0/libexec/lib/cli.js:130291:12)
+      at Object.onceWrapper (events.js:277:13)
+      at IncomingMessage.emit (events.js:194:15)
+      at endReadableNT (_stream_readable.js:1125:12)
+      at process._tickCallback (internal/process/next_tick.js:63:19)
+
+npm manifest: 
+  {
+    "name": "test",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "@types/axios": "^0.14.0",
+      "@types/jest": "24.0.10",
+      "@types/node": "11.10.5",
+      "@types/react": "16.8.7",
+      "@types/react-bootstrap": "^0.32.17",
+      "@types/react-dom": "16.8.2",
+      "@types/react-redux": "^7.0.3",
+      "@types/react-router-dom": "^4.3.1",
+      "@types/redux": "^3.6.0",
+      "@types/redux-thunk": "^2.1.0",
+      "axios": "^0.18.0",
+      "bootstrap": "^4.3.1",
+      "lodash": "^4.17.11",
+      "moment": "^2.24.0",
+      "node-sass": "^4.11.0",
+      "rc-datetime-picker": "^1.6.1",
+      "react": "^16.8.4",
+      "react-bootstrap": "^1.0.0-beta.5",
+      "react-canvas-nest": "^1.0.10",
+      "react-dom": "^16.8.4",
+      "react-redux": "^6.0.1",
+      "react-router-dom": "^4.3.1",
+      "react-scripts": "2.1.8",
+      "react-widgets": "^4.4.10",
+      "react-widgets-moment": "^4.0.26",
+      "redux": "^4.0.1",
+      "redux-logger": "^3.0.6",
+      "redux-thunk": "^2.3.0",
+      "typescript": "3.3.3333"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ],
+    "devDependencies": {
+      "@types/json-server": "^0.14.0",
+      "@types/mockjs": "^1.0.2",
+      "json-server": "^0.14.2",
+      "mockjs": "^1.0.1-beta3"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

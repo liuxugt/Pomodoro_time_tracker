@@ -1,0 +1,4 @@
+selenium
+html-testRunner
+pyyaml
+faker
