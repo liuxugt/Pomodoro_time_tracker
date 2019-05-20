@@ -72,17 +72,6 @@ The demo of this web app is shown in the video.
 
 [![cover](screenshots/cover.jpg)](https://www.youtube.com/embed/JO7ZQrm9zBQ)
 
-The results of automated testing are shown in the following screenshots.
-
-Test results:
-![](screenshots/test1.png)
-
-Test log:
-![](screenshots/test2.png)
-
-Test reports:
-![](screenshots/test3.png)
-
 
 ## Meta
 Xu Liu
